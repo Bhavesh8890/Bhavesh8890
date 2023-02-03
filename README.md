@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhavesh8890
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in JAVA
+- 🌱 I’m currently learning AWS (Cloud Computing)
+- 💞️ I’m looking to collaborate on Cloud projects
 - 📫 How to reach me my contact number is 8890569447
 
 <!---
