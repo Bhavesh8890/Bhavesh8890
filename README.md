@@ -29,7 +29,7 @@ I am a **Cloud & DevOps Engineer** bridging the gap between robust infrastructur
 
 ---
 
-<!-- SKILLS SECTION (Table Layout for Alignment) -->
+<!-- SKILLS SECTION -->
 ### &nbsp;&nbsp;🛠 Tech Stack & Tools
 
 <div align="center">
@@ -45,7 +45,7 @@ I am a **Cloud & DevOps Engineer** bridging the gap between robust infrastructur
 
 <br/>
 
-<!-- FEATURED PROJECTS (Manual List to look better than Pinned Repos) -->
+<!-- FEATURED PROJECTS -->
 ### &nbsp;&nbsp;🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -57,24 +57,26 @@ I am a **Cloud & DevOps Engineer** bridging the gap between robust infrastructur
 
 ---
 
-<!-- STATS SECTION -->
+<!-- STATS SECTION (Fixed URLs) -->
 ### &nbsp;&nbsp;📈 GitHub Stats
 
 <div align="center">
   
-  <!-- Top Row: Stats + Streak -->
+  <!-- Stats Card -->
   <a href="https://github.com/Bhavesh8890">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh8890&show_icons=true&theme=transparent&hide_border=true&title_color=0070F3&text_color=ffffff&icon_color=0070F3&bg_color=000000&count_private=true" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh8890&show_icons=true&hide_border=true&title_color=0070F3&text_color=FFFFFF&icon_color=0070F3&bg_color=000000" height="160" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
+  
+  <!-- Streak Card -->
   <a href="https://github.com/Bhavesh8890">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh8890&theme=transparent&hide_border=true&ring=0070F3&fire=0070F3&currStreakLabel=0070F3&background=00000000&stroke=ffffff" height="160" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh8890&hide_border=true&ring=0070F3&fire=0070F3&currStreakLabel=0070F3&stroke=FFFFFF&background=000000" height="160" alt="GitHub Streak" />
   </a>
 
   <br/><br/>
 
-  <!-- Bottom Row: Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh8890&layout=compact&theme=transparent&hide_border=true&title_color=0070F3&text_color=ffffff&icon_color=0070F3&bg_color=000000" height="140" alt="languages graph" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh8890&layout=compact&hide_border=true&title_color=0070F3&text_color=FFFFFF&bg_color=000000" height="140" alt="Top Languages" />
 
 </div>
 
@@ -82,7 +84,7 @@ I am a **Cloud & DevOps Engineer** bridging the gap between robust infrastructur
 
 <!-- FOOTER -->
 <div align="center">
-  <a href="https://linkedin.com/in/bhaveshkumar8890" target="_blank">
+  <a href="https://linkedin.com/in/bhavesh8890" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
