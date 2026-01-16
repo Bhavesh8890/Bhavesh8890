@@ -1,67 +1,92 @@
+<!-- HEADER & TYPING EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Cloud+Architect+%E2%98%81%EF%B8%8F;DevOps+Engineer+%F0%9F%9A%80;Building+AI+Agents+%F0%9F%A4%96;Infrastructure+as+Code+Enthusiast+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=42&duration=2500&pause=1000&color=0070F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bhavesh+Parmar;Cloud+%26+DevOps+Architect;Building+AI+Agents+(MCP);Universal+Infrastructure+as+Code" alt="Typing SVG" />
   
-  <h1 align="center">Hi there, I'm Bhavesh Kumar Parmar 👋</h1>
-  <p align="center">
-    <b>Cloud & DevOps Engineer</b> | Building AI Agents & Infrastructure as Code
-    <br/>
-    Building the future at <a href="https://github.com/ShellKode"><b>@ShellKode</b></a>
+  <br/>
+  
+  <h3>Cloud & DevOps Engineer @ <a href="https://shellkode.com" style="color: #0070F3; text-decoration: none;">ShellKode</a></h3>
+  
+  <p>
+     Bengaluru, India 🇮🇳 &nbsp;|&nbsp; 
+     <a href="https://bhaveshkumarparmar.vercel.app/"><b>Portfolio</b></a> &nbsp;|&nbsp; 
+     <a href="https://linkedin.com/in/bhavesh8890"><b>LinkedIn</b></a>
   </p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/bhaveshkumar8890">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <!-- CALL TO ACTION BUTTON -->
+  <a href="https://bhaveshkumarparmar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&borderColor=0070F3&border=1" height="35" alt="Visit Portfolio" />
+  </a>
 </div>
+
+<br/>
+
+<!-- ABOUT SECTION -->
+### &nbsp;&nbsp;⚡ About Me
+
+> **"Universal Infrastructure as Code. Your Cloud, Your Language, Your Way."**
+
+I am a **Cloud & DevOps Engineer** bridging the gap between robust infrastructure and **Generative AI**. I specialize in building self-healing cloud systems on **AWS** and creating **AI Agents** (using MCP & RAG) that automate complex operational workflows.
 
 ---
 
+<!-- SKILLS SECTION (Table Layout for Alignment) -->
+### &nbsp;&nbsp;🛠 Tech Stack & Tools
+
 <div align="center">
-  <h3>🛠️ Technologies & Tools</h3>
-  
-  <!-- Cloud/Infra -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <br/>
-  
-  <!-- CI/CD -->
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <br/>
-  
-  <!-- AI/Code -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+
+| **Cloud & Infrastructure** | **AI & Automation** | **Languages** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" width="130" /> | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" width="130" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130" /> |
+| <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" width="130" /> | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" width="130" /> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="130" /> |
+| <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" width="130" /> | <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" width="130" /> | <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" width="130" /> |
+| <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="130" /> | <img src="https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white" width="130" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="130" /> |
+
 </div>
 
 <br/>
 
+<!-- FEATURED PROJECTS (Manual List to look better than Pinned Repos) -->
+### &nbsp;&nbsp;🚀 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[MCP-server](https://github.com/Bhavesh8890/MCP-server)** | Production-ready **Model Context Protocol** server for AWS resources. Secure & Scalable. | `TypeScript` `AWS SDK` |
+| **[Resume-Website](https://github.com/Bhavesh8890/resume-website)** | AI-powered resume builder tailored to job descriptions using **Google Gemini**. | `Next.js` `Gemini` |
+| **[PDFs-Chatbot-RAG](https://github.com/Bhavesh8890/PDFs-Chatbot-RAG)** | Conversational AI that chats with multiple PDF documents using **RAG**. | `Python` `LangChain` |
+| **[Jenkins-CI-CD](https://github.com/Bhavesh8890/Jenkins-CI-CD-Pipeline-for-Selenium-Testing)** | Full automated testing pipeline integration. | `Jenkins` `Selenium` |
+
+---
+
+<!-- STATS SECTION -->
+### &nbsp;&nbsp;📈 GitHub Stats
+
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh8890&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&count_private=true" alt="Bhavesh's GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh8890&theme=dracula&hide_border=true&background=0D1117" alt="Bhavesh's Streak" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh8890&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  
+  <!-- Top Row: Stats + Streak -->
+  <a href="https://github.com/Bhavesh8890">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh8890&show_icons=true&theme=transparent&hide_border=true&title_color=0070F3&text_color=ffffff&icon_color=0070F3&bg_color=000000&count_private=true" height="160" alt="stats graph" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Bhavesh8890">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh8890&theme=transparent&hide_border=true&ring=0070F3&fire=0070F3&currStreakLabel=0070F3&background=00000000&stroke=ffffff" height="160" alt="streak graph" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Bottom Row: Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh8890&layout=compact&theme=transparent&hide_border=true&title_color=0070F3&text_color=ffffff&icon_color=0070F3&bg_color=000000" height="140" alt="languages graph" />
+
 </div>
 
 <br/>
 
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhavesh8890&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <a href="https://linkedin.com/in/bhaveshkumar8890" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:workwithbhaveshcc@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
