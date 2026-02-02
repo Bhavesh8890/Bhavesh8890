@@ -90,7 +90,7 @@ I bridge the gap between Operations and AI by developing tools using the **Anthr
 
 <!-- FOOTER -->
 <div align="center">
-  <a href="https://linkedin.com/in/bhavesh8890" target="_blank">
+  <a href="https://linkedin.com/in/bhavesh-ops" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
